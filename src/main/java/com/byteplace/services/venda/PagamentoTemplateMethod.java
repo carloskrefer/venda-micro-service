@@ -7,7 +7,7 @@ public abstract class PagamentoTemplateMethod {
 
         if (!isConexaoAutenticada) return;
 
-        boolean isPagamentoValido     = validarPagamento(dadosPagamento);
+        boolean isPagamentoValido = validarPagamento(dadosPagamento);
 
         if(isPagamentoValido){
 

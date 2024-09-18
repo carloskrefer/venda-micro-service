@@ -4,7 +4,7 @@ package com.byteplace;
  * Hello world!
  *
  */
-public class UserController
+public class VendaController
 {
     public static void main( String[] args )
     {
