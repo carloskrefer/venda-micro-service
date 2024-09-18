@@ -1,4 +1,4 @@
-package com.main.java.com.byteplace.services.venda;
+package com.byteplace.services.venda;
 
 public class VendaService {
     
